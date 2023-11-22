@@ -1,0 +1,14 @@
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\bin\Debug\net7.0\Loop_Challenge.exe
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\bin\Debug\net7.0\Loop_Challenge.deps.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\bin\Debug\net7.0\Loop_Challenge.runtimeconfig.json
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\bin\Debug\net7.0\Loop_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\bin\Debug\net7.0\Loop_Challenge.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\Loop_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\Loop_Challenge.AssemblyInfoInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\Loop_Challenge.AssemblyInfo.cs
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\Loop_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\Loop_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\refint\Loop_Challenge.dll
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\Loop_Challenge.pdb
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\Loop_Challenge.genruntimeconfig.cache
+C:\Users\UNIK\Pictures\_perso\29th August 2022\IT CAREER JOUNEY\C-SharpLearningJourney\C_Sharp_Loop_Challenge\Loop_Challenge\Loop_Challenge\obj\Debug\net7.0\ref\Loop_Challenge.dll
